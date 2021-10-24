@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Salary-System/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Salary-System/static/js/main.6d1a1a58.chunk.js",
+    "main.js.map": "/Salary-System/static/js/main.6d1a1a58.chunk.js.map",
+    "runtime-main.js": "/Salary-System/static/js/runtime-main.4644afcc.js",
+    "runtime-main.js.map": "/Salary-System/static/js/runtime-main.4644afcc.js.map",
+    "static/js/2.978ff361.chunk.js": "/Salary-System/static/js/2.978ff361.chunk.js",
+    "static/js/2.978ff361.chunk.js.map": "/Salary-System/static/js/2.978ff361.chunk.js.map",
+    "static/js/3.66fc2b99.chunk.js": "/Salary-System/static/js/3.66fc2b99.chunk.js",
+    "static/js/3.66fc2b99.chunk.js.map": "/Salary-System/static/js/3.66fc2b99.chunk.js.map",
+    "index.html": "/Salary-System/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Salary-System/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.978ff361.chunk.js.LICENSE.txt": "/Salary-System/static/js/2.978ff361.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4644afcc.js",
+    "static/js/2.978ff361.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6d1a1a58.chunk.js"
+  ]
+}
